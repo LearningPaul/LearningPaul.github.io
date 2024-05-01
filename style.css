@@ -140,7 +140,7 @@ main {
   margin-bottom: 0;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1080px) {
   .containerprofile {
     width: 100%;
   }
