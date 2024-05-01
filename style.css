@@ -150,19 +150,6 @@ main {
     margin-bottom: 20px;
   }
 
-body, html {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-}
-
-div {
-  width: 100%;
-  height: 100%;
-  background-color: lightblue; /* Hier kannst du deine Hintergrundfarbe einstellen */
-  box-sizing: border-box;
-}
  
  .roadmap {
     width: 80%;
