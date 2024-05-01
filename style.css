@@ -154,8 +154,8 @@ main {
     font-size: 14px;
 
   }
-.container {
-    width: 80%;
-
+ .roadmap {
+    width: 100%;
   }
+
 }
