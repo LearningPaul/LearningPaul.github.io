@@ -150,6 +150,9 @@ main {
     margin-bottom: 20px;
   }
 
+body{
+background-color: green;
+}
  
  .roadmap {
     width: 80%;
