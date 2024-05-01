@@ -140,7 +140,7 @@ main {
   margin-bottom: 0;
 }
 
-@media (max-width: 1500px) {
+@media only screen and (max-width: 915px) {
   .containerprofile {
     width: 100%;
   }
