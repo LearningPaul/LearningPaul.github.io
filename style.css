@@ -150,12 +150,9 @@ main {
     margin-bottom: 20px;
   }
 
-  body {
-    font-size: 14px;
-
-  }
+ 
  .roadmap {
-    width: 100%;
+    width: 80%;
   }
 
 }
