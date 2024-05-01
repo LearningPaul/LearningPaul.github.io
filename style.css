@@ -139,3 +139,20 @@ main {
 .contact-card p {
   margin-bottom: 0;
 }
+
+@media (max-width: 768px) {
+  .containerprofile {
+    width: 100%;
+  }
+
+  .contact-card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  body {
+    font-size: 14px;
+
+  }
+
+}
